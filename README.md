@@ -27,7 +27,7 @@ client_id | name | address | city | state | phone
 <pre><code>SELECT * FROM sql_invoicing.clients WHERE NAME="Yadel";
 </code></pre>
 
-## SQL example for using REST API
+## SQL example by using REST API
 * Retrieve all client information
 <pre><code>$ curl http://127.0.0.1:8080/clients
 </code></pre>
