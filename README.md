@@ -3,7 +3,7 @@ This project is assigned by NJC LABS for knowledge assessment.
 
 ## Database
 * The database is built using MySQL, which will be running locally at port 3306.
-* Database Schema: sql_invocing
+* Database Schema: sql_invoicing
 * Table: clients
 
 client_id | name | address | city | state | phone 
