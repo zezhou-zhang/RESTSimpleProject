@@ -48,3 +48,8 @@ $ curl http://127.0.0.1:8080/clients/clientName=Yadel
 <pre><code>
 [{"client_id":3,"name":"Yadel","address":"096 Pawling Parkway","city":"San Francisco","state":"CA","phone":"415-144-6037"}]
 </code></pre>
+
+
+## Screenshot
+![SQLExamples](https://github.com/zezhou-zhang/RESTSimpleProject/blob/main/SQLExample.png)  
+*SQL through REST API*
